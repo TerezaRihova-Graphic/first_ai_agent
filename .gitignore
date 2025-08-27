@@ -1,0 +1,19 @@
+# Soukromé API klíče a konfigurace
+.env
+
+# Složky vytvářené Pythonem
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtuální prostředí (pokud budeš používat)
+venv/
+env/
+
+# Nastavení editoru
+.vscode/
+.idea/
+
+# Ostatní nepotřebné soubory
+*.log
